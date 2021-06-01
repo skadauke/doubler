@@ -7,7 +7,7 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![R-CMD-check](https://github.com/CGTDataOps/doubler/workflows/R-CMD-check/badge.svg)](https://github.com/CGTDataOps/doubler/actions)
+[![R-CMD-check](https://github.research.chop.edu/CGTDataOps/doubler/workflows/R-CMD-check/badge.svg)](https://github.research.chop.edu/CGTDataOps/doubler/actions)
 <!-- badges: end -->
 
 The goal of `doubler` is to double a given numeric value. This is a
