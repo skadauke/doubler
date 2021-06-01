@@ -1,0 +1,14 @@
+Package: doubler
+Type: Package
+Title: A Package for Doubling Values
+Version: 0.1.0
+Author: Richard Hanna
+Maintainer: Richard Hanna <hannar1@chop.edu>
+Description: A testing package with minimal utility focused on testing GitHub Actions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
