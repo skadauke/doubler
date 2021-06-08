@@ -14,7 +14,7 @@ name: R-CMD-check
 
 jobs:
   R-CMD-check:
-    runs-on: [ k8s ]
+    runs-on: [ cgt-runner ]
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
